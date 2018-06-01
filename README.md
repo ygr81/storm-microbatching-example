@@ -6,4 +6,4 @@ Apache Storm makes sense for integration with external systems from performance 
 
 Here's example code that introduces micro-batching to bolt, using Storm's tick-tuple feature.
 
-Broader description is on [Micro-batching in Apache Storm](http://notes.vault7.net/apache/storm/microbatching-in-apache-storm/) page.
+Broader description can be found on [Micro-batching in Apache Storm](http://notes.vault7.net/apache/storm/microbatching-in-apache-storm/) page.
